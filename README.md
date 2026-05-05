@@ -116,15 +116,15 @@ Luego, en este README, puedes referenciarlas así:
 
 ### Registro exitoso
 ![Registro OK](capturas/registro_ok.png)
-![Registro OK](capturas/persistencia_ok.png)
+![Persistencia OK](capturas/persistencia_ok.PNG)
 
 ### Login exitoso
-![Login OK](capturas/login_ok.png)
+![Login OK](capturas/login_ok.PNG)
 
 ### Acceso a tareas
-![Tareas OK](capturas/tareas_ok.png)
+![Tareas OK](capturas/tareas_ok.PNG)
 
-![Tareas OK 2](capturas/obtener_tareas_ok.png)
+![Tareas OK 2](capturas/obtener_tareas_ok.PNG)
 
 
 GitHub Pages es para contenido estático (HTML/CSS/JS). Esta API Flask no corre directamente en Pages.
